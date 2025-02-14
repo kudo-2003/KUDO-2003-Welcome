@@ -5,4 +5,4 @@
 ## 🚀 About Me
 - 🔭 I’m currently working on cool Node.js projects  
 - 🌱 I’m learning TypeScript and Kubernetes  
-- 📫 How to reach me: cao.nam@example.com  
+- 📫 How to reach me: https://github.com/kudo-2003
