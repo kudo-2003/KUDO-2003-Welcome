@@ -4,5 +4,5 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working on cool Node.js projects, HTTP, Spring, Java, Dart, Python, Blockchain, JavaScript, TypeScript, ReactJS, NextJS, Truffe, MySQL, Mongoose...
-- 🌱 I’m learning TypeScript and Kubernetes  
+- 🌱 I’m learning TypeScript and JavaScript 
 - 📫 How to reach me: https://github.com/kudo-2003
