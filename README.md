@@ -3,6 +3,6 @@
 # KUDO-2003-Welcome
 
 ## 🚀 About Me
-- 🔭 I’m currently working on cool Node.js projects  
+- 🔭 I’m currently working on cool Node.js projects, HTTP, Spring, Java, Dart, Python, Blockchain, JavaScript, TypeScript, ReactJS, NextJS, Truffe, MySQL, Mongoose...
 - 🌱 I’m learning TypeScript and Kubernetes  
 - 📫 How to reach me: https://github.com/kudo-2003
